@@ -7,9 +7,9 @@ a tamermonkey script for pitchfork, which can show all the scores on the albums 
  [(Tampermonkey link)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
 2. Either you can just click the 'INSTALL' link below or you can install it from greasyfork
-[(GreasyFork link)]()
+[(GreasyFork link)](https://greasyfork.org/en/scripts/446690-show-pitchfork-review-score)
 
-3. - [INSTALL]()
+3. - [INSTALL](https://github.com/xcsnowcity/TamperMonkey-Pitchfork/raw/master/pitchfork.user.js)
 
 4. Viola!
 

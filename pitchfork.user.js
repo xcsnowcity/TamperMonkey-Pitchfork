@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Show all the scores on the albums list page when you scrolling instead of  in every review page, therefore you don't need to check and click every album url anymore.
 // @author       xcsnowcity
-// @supportURL   https://github.com/xcsnowcity/Pitchfork-userscript/issues
+// @supportURL   https://github.com/xcsnowcity/TamperMonkey-Pitchfork/issues
 // @match        https://pitchfork.com/reviews/albums/
 // @match        https://pitchfork.com/reviews/albums/?page=*
 // @match        https://pitchfork.com/reviews/best/albums/
@@ -22,6 +22,7 @@
 // @grant        GM_addElement
 // @grant        GM_xmlhttpRequest
 // @grant        GM_log
+// @license      MIT
 // ==/UserScript==
 
 (function () {
