@@ -1,5 +1,5 @@
 # Show score on pitchfork
-a tamermonkey script for pitchfork, which can show all the scores on the albums list page when you scrolling instead of  in every review page, therefore you don't need to  click and check every album url anymore.
+a tampermonkey script for pitchfork, which can show all the scores on the albums list page when you scrolling instead of  in every review page, therefore you don't need to  click and check every album url anymore.
 
 # Installation
 
